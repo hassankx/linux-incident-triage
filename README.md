@@ -1,3 +1,7 @@
+[🌌 View the black-and-Milky-Way themed page](index.html) · [Open HTML source](https://github.com/hassankx/linux-incident-triage/blob/main/index.html)
+
+> GitHub README pages use GitHub's own theme. Download `index.html` and open it in a browser to see the full starfield design.
+
 # Linux Incident Triage
 
 A read-only evidence collector for the first minutes of a Linux incident. It saves a timestamped snapshot of the host before anyone restarts a service or reboots, so the root-cause analysis has something to work from.
